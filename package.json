@@ -1,0 +1,19 @@
+{
+  "name": "vscode-theme-lister",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/shelljs": "^0.7.2",
+    "@types/superagent": "^3.5.3",
+    "shelljs": "^0.7.8",
+    "sleep": "^5.1.1",
+    "superagent": "^3.5.2"
+  },
+  "scripts": {
+    "download_json": "node scripts/json_downloader.js",
+    "extension": "node scripts/run_an_extension.js",
+    "all": "node scripts/run_all_extensions.js",
+    "shrink": "node scripts/shrink_images.js"
+  }
+}

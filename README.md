@@ -1,2 +1,19 @@
 # vscode-themes
 vscode-themes
+
+
+## Setup
+
+```sh
+git clone https://github.com/orta/vscode-themes.git
+cd vscode-themes
+yarn install
+yarn setup
+```
+
+This will setup and run the [vscode-themes-lister](https://github.com/orta/vscode-theme-lister) - expect it to take ~2-3 hours. Make sure you've got VS Code Insiders set up etc.
+
+
+Now you will reliably have a folders `generator/data/*` which contains all the essential metadata and screenshots.
+
+### Getting the website up & running
