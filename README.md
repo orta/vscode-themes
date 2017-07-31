@@ -1,6 +1,6 @@
 # vscode-themes
 
-<a href='http://orta.io/vscode-themes/'><img src='screenshots/screenshot.png></a>
+<a href='http://orta.io/vscode-themes/'><img src='screenshots/screenshot.png'></a>
 
 ## Setup
 
