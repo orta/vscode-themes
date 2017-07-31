@@ -1,6 +1,6 @@
 # vscode-themes
-vscode-themes
 
+<a href='http://orta.io/vscode-themes/'><img src='screenshots/screenshot.png></a>
 
 ## Setup
 
@@ -18,3 +18,9 @@ Or if you have it set up somewhere else, `ln -s ../vscode-theme-lister generator
 Now you will reliably have a folders `generator/data/*` which contains all the essential metadata and screenshots.
 
 ### Getting the website up & running
+
+Run `yarn app` to generate the html inside a `dist` folder.
+
+### Deploy to gh-pages
+
+Run `yarn deploy`.
