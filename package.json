@@ -6,8 +6,10 @@
   "dependencies": {
     "@types/shelljs": "^0.7.2",
     "@types/superagent": "^3.5.3",
+    "glob": "^7.1.2",
     "next": "beta",
     "nextein": "beta",
+    "node-glob": "^1.2.0",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "shelljs": "^0.7.8",
