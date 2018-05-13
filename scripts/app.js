@@ -30,6 +30,7 @@ const themeMetadatas = themeFolders.map(theme =>{
 })
 
 const head = `
+<!DOCTYPE html>
 <html>
 <head>
   <title>VS Code themes</title>
